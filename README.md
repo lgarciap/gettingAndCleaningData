@@ -8,5 +8,5 @@
 7. Extract only the measurements on the mean and standard deviation for each measurement.
 8. Group by Activity and Subject
 9. Create new tidy data frame
-10.Writing the new Tidy Data into a .txt file
+10. Writing the new Tidy Data into a .txt file
 
