@@ -1,0 +1,7 @@
+- Analizar el caso de estudio
+	- Identificar procesos del negocio.
+	Reservación de habitación 
+	- Identificar personas que interactúan con los procesos.
+	recepcionista y cliente
+	- Identificar personas que trabajan en el negocio.
+	trabajador del negocio: recepcionista
